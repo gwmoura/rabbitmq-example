@@ -8,3 +8,7 @@ Repositório para estudos do rabbitmq e filas
 * acessar `http://localhost:15672/` - user: guest senha: guest
 
 ### Serviços
+
+* log
+* emails
+* processamento de palavras
